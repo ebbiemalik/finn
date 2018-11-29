@@ -50,14 +50,14 @@
     </plugins></build>
 <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>sample-rel123</id>
 		<name>Internal Releases</name>
-		<url>http://10.121.206.117:8081/nexus/content/repositories/mph/</url>
+		<url>http://52.15.140.223:8081/nexus/content/repositories/sample-rel123/</url>
 	</repository>
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>sample-snap123</id>
 		<name>Internal Releases</name>
-		<url>http://10.121.206.117:8081/nexus/content/repositories/mphsnap/</url>
+		<url>http://52.15.140.223:8081/nexus/content/repositories/sample-snap123/</url>
 	</snapshotRepository>
 </distributionManagement>
 </project>
