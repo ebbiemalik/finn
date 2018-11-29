@@ -18,11 +18,11 @@
 
     <distributionManagement>
       <snapshotRepository>
-        <id>deployment</id>
+        <id>project-snap123</id>
         <url>http://52.15.140.223:8081/nexus/content/repositories/project-snap123/</url>
       </snapshotRepository>
       <repository>
-        <id>nexus-releases</id>
+        <id>project-rel123</id>
         <url>http://52.15.140.223:8081/nexus/content/repositories/project-rel123/</url>
       </repository>
     </distributionManagement>
